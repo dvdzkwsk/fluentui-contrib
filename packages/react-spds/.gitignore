@@ -1,0 +1,10 @@
+src/*/etc
+src/*/config
+src/*/.npmignore
+src/*/README.md
+src/*/CHANGELOG.json
+src/*/CHANGELOG.md
+src/*/DEPRECATION.md
+src/*/eslint.config.cjs
+src/*/package.json
+src/*/tsconfig.json
